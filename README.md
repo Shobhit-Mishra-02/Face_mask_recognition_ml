@@ -2,6 +2,14 @@
 Here I have developed a ml model which will allow the user to detect a face and also it will tell you that whether that detected face has got a face mask or no.
 <h1>Project for the face mask indentification with ml.</h1>
 
+<h3>Prerequisites</h3>
+<ol>
+<li>Python</li>
+<li>Numpy</li>
+<li>Pandas</li>
+<li>Opencv</li>
+<li>Sklearn</li>
+</ol>
 
 <h3>How to start this</h3>
 Just click on the test.py file and you will get a window where you will see the live stream from your web cam, then just place your face in front of you web cam. Then if you haved
