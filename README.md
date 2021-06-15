@@ -1,5 +1,5 @@
 # Face_mask_recognition_ml
-Here I have developed a ml model which will allow the user to detect a face and also it will tell you that whether that detected face has got a face mask or no.
+Here I have developed a ml model which will allow the user to detect a face and also it will tell you that whether that detected face has got a face mask or not.
 <h1>Project for the face mask indentification with ml.</h1>
 
 <h3>Prerequisites</h3>
