@@ -12,8 +12,7 @@ Here I have developed a ml model which will allow the user to detect a face and 
 </ol>
 
 <h3>How to start this</h3>
-Just click on the test.py file and you will get a window where you will see the live stream from your web cam, then just place your face in front of you web cam. Then if you have
-weared any face mask then this will say that you are 'unsave' and when you will wear a mask then you will see 'save' written on the top of your face. For exit press 'q'.
+Just click on the test.py file and you will get a window where you will see the live stream from your web cam, then just place your face in front of you web cam. Then if you have not weared any face mask then this will say that you are 'unsave' and when you will wear a mask then you will see 'save' written on the top of your face. For exit press 'q'.
 
 <h3>Steps of developing this project</h3>
 <ol>
