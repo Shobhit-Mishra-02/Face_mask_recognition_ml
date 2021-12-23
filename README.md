@@ -9,6 +9,7 @@ Here I have developed a ml model which will allow the user to detect a face and 
 <li>Pandas</li>
 <li>Opencv</li>
 <li>Sklearn</li>
+ <li>PyWavelets</li>
 </ol>
 
 <h3>How to start this</h3>
