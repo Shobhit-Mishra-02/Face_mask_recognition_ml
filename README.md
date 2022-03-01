@@ -1,5 +1,7 @@
 # Face_mask_recognition_ml
+
 Here I have developed a ml model which will allow the user to detect a face and also it will tell you that whether that detected face has got a face mask or not.
+
 <h1>Project for the face mask indentification with ml.</h1>
 
 <h3>Prerequisites</h3>
@@ -13,6 +15,9 @@ Here I have developed a ml model which will allow the user to detect a face and 
 </ol>
 
 <h3>How to start this</h3>
+
+> TO INSTALL THE REQUIRED PACKAGES RUN THIS COMMAND: **pip install -r requirements.txt**
+
 Just click on the test.py file and you will get a window where you will see the live stream from your web cam, then just place your face in front of you web cam. Then if you have not weared any face mask then this will say that you are 'unsave' and when you will wear a mask then you will see 'save' written on the top of your face. For exit press 'q'.
 
 <h3>Steps of developing this project</h3>
